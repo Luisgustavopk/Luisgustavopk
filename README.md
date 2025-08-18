@@ -119,10 +119,10 @@
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lxpk&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxpk&theme=dark&locale=pt-br&langs_count=7"/>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dark&locale=pt-br&langs_count=7"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxpk&layout=pie&theme=dark&locale=pt-br"/>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=pie&theme=dark&locale=pt-br"/>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/Lxpk/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lxpki&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=i&theme=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lxpk&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=&theme=github_dark"/>
 </td>
 <td>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
