@@ -9,7 +9,7 @@
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="1"></td>
+ <td align="center" colspan="11"></td>
 </tr> 
 <tr>
 <td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a></td>
@@ -25,7 +25,7 @@
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a></td>
 </tr>
 <tr>
- <td align="center" colspan="6"></td>
+ <td align="center" colspan="11"></td>
 </tr> 
 </table>
 </div>
