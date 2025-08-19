@@ -197,7 +197,7 @@
 </td>
 <td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-
+<img src="img/jake-music.gif" alt="Jake ouvindo música" width="400"/>
 
 </td>
 </tr>
