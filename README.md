@@ -111,7 +111,7 @@
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/Lxpk/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=i&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lxpk12&theme=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
