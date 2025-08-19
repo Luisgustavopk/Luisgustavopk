@@ -1,5 +1,5 @@
 <div>
-<img src="img/background1.png" alt="background"/>
+<img src="img/background12.png" alt="background"/>
 </div>
 
 
