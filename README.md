@@ -6,7 +6,7 @@
 
 -----
 
-<div align="center">
+<div align="justify">
 <table>
 <tr>
  <td align="center" colspan="11"></td>
