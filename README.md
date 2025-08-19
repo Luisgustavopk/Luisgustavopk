@@ -103,12 +103,12 @@
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/Luisgustavopk" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/Lxpk12" target="_blank">GitHub Wrapped</a></td>
  <td align="center">:watch: <a href="https://wakatime.com/@Lxpk12">WakaTime</a></td>
 </tr>
 <tr>
 <td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/Luisgustavopk/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/Lxpk12/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lxpk12&theme=dark&layout=compact"/>
