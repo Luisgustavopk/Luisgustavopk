@@ -197,7 +197,8 @@
 </td>
 <td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
- ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Dom Torresmo)
+![7b7a49c20326e3cbfdccb534ca0366f1](https://github.com/user-attachments/assets/635afb31-2a43-415c-a6b2-eba1ec2aff33)
+
 </td>
 </tr>
 <tr>
