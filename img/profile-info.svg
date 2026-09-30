@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="292" viewBox="0 0 480 292" role="img" aria-labelledby="title desc">
+  <title id="title">Sobre Luis Gustavo</title>
+  <desc id="desc">Estudante de Engenharia de Software na PUC Minas. Foco em backend e frontend. Belo Horizonte, MG. Linguagens: Java, TypeScript e JavaScript. Interesses: jogos, RPG e música.</desc>
+  <rect width="480" height="292" rx="6" fill="#2c313a"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace" font-size="15" fill="#abb2bf">
+    <text x="20" y="30">luisgustavopk@github</text>
+    <text x="20" y="51" fill="#be7682">-----------------------------</text>
+    <text x="20" y="77"><tspan fill="#c4a7e7">Nome:</tspan> Luis Gustavo</text>
+    <text x="20" y="100"><tspan fill="#c4a7e7">Curso:</tspan> Engenharia de Software</text>
+    <text x="20" y="123"><tspan fill="#c4a7e7">Faculdade:</tspan> PUC Minas</text>
+    <text x="20" y="146"><tspan fill="#c4a7e7">Foco:</tspan> Backend, Frontend</text>
+    <text x="20" y="169"><tspan fill="#c4a7e7">Local:</tspan> Belo Horizonte, MG</text>
+    <text x="20" y="192"><tspan fill="#c4a7e7">Linguagens:</tspan> Java, TypeScript,</text>
+    <text x="119" y="215">JavaScript</text>
+    <text x="20" y="250"><tspan fill="#c4a7e7">Interesses:</tspan> Jogos, RPG, Música</text>
+  </g>
+</svg>
