@@ -4,40 +4,47 @@
 luisgustavopk@github:~$ whoami
 ```
 
-<table>
+<div align="center">
+<table align="center">
   <tr>
     <td width="34%" align="center" valign="middle">
       <img src="img/slugcat-idle.gif" alt="Personagem inspirado no Slugcat de Rain World em pixel art 16-bit, respirando e piscando" width="256" />
     </td>
-    <td width="66%" valign="middle">
+    <td width="66%" align="center" valign="middle">
 
 <img src="img/profile-info.svg" alt="Luis Gustavo — estudante de Engenharia de Software na PUC Minas, com foco em backend e frontend. Belo Horizonte, MG. Linguagens: Java, TypeScript e JavaScript. Interesses: jogos, RPG e música." width="480" />
 
 </td>
 </tr>
 </table>
+</div>
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=cplusplus&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=dotnet&logoColor=A578D3)
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-05122A?style=flat&amp;logo=c&amp;logoColor=A8B9CC" alt="C" title="C" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-05122A?style=flat&amp;logo=cplusplus&amp;logoColor=00599C" alt="C++" title="C++" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-05122A?style=flat&amp;logo=dotnet&amp;logoColor=A578D3" alt="C#" title="C#" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-05122A?style=flat&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" title="Java" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-05122A?style=flat&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" title="TypeScript" height="22" />
+</p>
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=5FA04E)
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css&logoColor=663399)
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-05122A?style=flat&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" title="Spring Boot" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-05122A?style=flat&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" title="Node.js" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/React-05122A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React" title="React" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML-05122A?style=flat&amp;logo=html5&amp;logoColor=E34F26" alt="HTML" title="HTML" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&amp;logo=css&amp;logoColor=663399" alt="CSS" title="CSS" height="22" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
-
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032)
-![VS Code](img/badges/vscode.svg)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea&logoColor=FFFFFF)
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" title="MySQL" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&amp;logo=mongodb&amp;logoColor=47A248" alt="MongoDB" title="MongoDB" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git" title="Git" height="22" />&nbsp;
+  <img src="img/badges/vscode.svg" alt="VS Code" title="VS Code" height="22" />&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&amp;logo=intellijidea&amp;logoColor=FFFFFF" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="22" />
+</p>
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
 
@@ -53,7 +60,8 @@ luisgustavopk@github:~$ whoami
 <details open>
   <summary><img src="img/icons/spotify.svg" alt="" width="16" height="16" /> <b>Luis's Spotify Data</b></summary>
   <br />
-  <table>
+  <div align="center">
+<table align="center">
     <tr>
       <td width="55%" align="center" valign="middle">
         <a href="https://open.spotify.com/user/utmmhfak3httdc40kx2u6qn2i"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=utmmhfak3httdc40kx2u6qn2i" alt="Spotify recently played" width="400" /></a>
@@ -63,6 +71,7 @@ luisgustavopk@github:~$ whoami
       </td>
     </tr>
   </table>
+</div>
 </details>
 
 ### Contato
@@ -73,4 +82,4 @@ luisgustavopk@github:~$ whoami
 [![X / Twitter](https://img.shields.io/badge/lxpkS2-242424?style=flat-square&logo=x&logoColor=white)](https://x.com/lxpkS2)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/959151773728251914)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531982322845)
-[![Portf?lio](https://img.shields.io/badge/Portf%3Flio-6E56A5?style=flat-square&logo=githubpages&logoColor=white)](https://luis-gustavo-portifolio.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-6E56A5?style=flat-square&logo=githubpages&logoColor=white)](https://luis-gustavo-portifolio.vercel.app/)
