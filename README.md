@@ -17,30 +17,27 @@ luisgustavopk@github:~$ whoami
 </tr>
 </table>
 
-<p align="left">
-  <a href="https://luis-gustavo-portifolio.vercel.app/"><img src="img/icons/portfolio.svg" alt="Portfólio" title="Portfólio" width="36" height="36" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/luis-xavier-b71980356/"><img src="img/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="36" height="36" /></a>&nbsp;&nbsp;
-  <a href="mailto:luisgustavoxavier1234@gmail.com"><img src="img/icons/gmail.svg" alt="E-mail" title="E-mail" width="36" height="36" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/luisgustapk/"><img src="img/icons/instagram.svg" alt="Instagram" title="Instagram" width="36" height="36" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/lxpkS2"><img src="img/icons/twitter.svg" alt="X / Twitter" title="X / Twitter" width="36" height="36" /></a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/959151773728251914"><img src="img/icons/discord.svg" alt="Discord" title="Discord" width="36" height="36" /></a>
-</p>
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<table>
-  <tr>
-    <td><b>Linguagens</b></td>
-    <td><img src="img/icons/languages.svg" alt="C, C++, C#, Java, JavaScript, TypeScript, HTML e CSS" height="36" /></td>
-  </tr>
-  <tr>
-    <td><b>Frameworks e dados</b></td>
-    <td><img src="img/icons/frameworks-data.svg" alt="Spring, Node.js, React, MySQL e MongoDB" height="36" /></td>
-  </tr>
-  <tr>
-    <td><b>Ferramentas</b></td>
-    <td><img src="img/icons/tools.svg" alt="Git, VS Code e IntelliJ IDEA" height="36" /></td>
-  </tr>
-</table>
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=dotnet&logoColor=A578D3)
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=5FA04E)
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css&logoColor=663399)
+
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
+
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032)
+![VS Code](img/badges/vscode.svg)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea&logoColor=FFFFFF)
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
 
@@ -67,3 +64,13 @@ luisgustavopk@github:~$ whoami
     </tr>
   </table>
 </details>
+
+### Contato
+
+[![E-mail](https://img.shields.io/badge/Luis%20Gustavo-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisgustavoxavier1234@gmail.com)
+[![LinkedIn](img/badges/linkedin.svg)](https://www.linkedin.com/in/luis-xavier-b71980356/)
+[![Instagram](https://img.shields.io/badge/luisgustapk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/luisgustapk/)
+[![X / Twitter](https://img.shields.io/badge/lxpkS2-242424?style=flat-square&logo=x&logoColor=white)](https://x.com/lxpkS2)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/959151773728251914)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531982322845)
+[![Portf?lio](https://img.shields.io/badge/Portf%3Flio-6E56A5?style=flat-square&logo=githubpages&logoColor=white)](https://luis-gustavo-portifolio.vercel.app/)
