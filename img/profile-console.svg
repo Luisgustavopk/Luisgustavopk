@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="230" viewBox="0 0 280 230" role="img" aria-labelledby="title desc">
+  <title id="title">Código e jogos</title>
+  <desc id="desc">Console portátil em pixel art, com código na tela, sobre um fundo escuro.</desc>
+  <rect width="280" height="230" rx="12" fill="#161b22"/>
+  <path d="M16 36h248" stroke="#30363d"/>
+  <g fill="#8b949e"><circle cx="18" cy="19" r="3"/><circle cx="30" cy="19" r="3"/><circle cx="42" cy="19" r="3"/></g>
+  <text x="264" y="23" text-anchor="end" font-family="monospace" font-size="10" fill="#8b949e">~/playground</text>
+  <g shape-rendering="crispEdges">
+    <path d="M99 57h84v7h7v129h-7v7H99v-7h-7V64h7z" fill="#0d1117"/>
+    <path d="M95 53h84v7h7v125h-7v7H95v-7h-7V60h7z" fill="#8f8db5"/>
+    <path d="M95 53h84v6H95zM88 60h6v121h-6z" fill="#bebcdb"/>
+    <path d="M180 64h6v121h-7v7H99v-6h76v-7h5z" fill="#67688d"/>
+    <rect x="100" y="66" width="74" height="64" fill="#303447"/>
+    <rect x="107" y="73" width="60" height="44" fill="#152a32"/>
+    <path d="M122 82h5v5h-5v5h-5v-5h5zM122 92h5v5h-5zM148 82h5v5h5v5h-5v5h-5v-5h5v-5h-5zM138 82h4v5h-4v9h-4v5h-4v-5h4v-9h4z" fill="#7dc4bd"/>
+    <rect x="145" y="106" width="15" height="3" fill="#7dc4bd"/>
+    <rect x="160" y="122" width="5" height="3" fill="#7dc4bd"/>
+    <path d="M108 142h10v10h10v10h-10v10h-10v-10H98v-10h10z" fill="#252939"/>
+    <rect x="108" y="152" width="10" height="10" fill="#3c4258"/>
+    <path d="M155 143h10v4h4v9h-4v4h-10v-4h-4v-9h4z" fill="#756397"/>
+    <path d="M138 158h10v4h4v9h-4v4h-10v-4h-4v-9h4z" fill="#756397"/>
+    <rect x="157" y="145" width="6" height="4" fill="#b8a1d7"/>
+    <rect x="140" y="160" width="6" height="4" fill="#b8a1d7"/>
+    <rect x="118" y="180" width="12" height="4" fill="#555c78"/>
+    <rect x="137" y="180" width="12" height="4" fill="#555c78"/>
+    <path d="M58 89h4v4h4v4h-4v4h-4v-4h-4v-4h4zM218 156h4v4h4v4h-4v4h-4v-4h-4v-4h4z" fill="#526b87"/>
+    <rect x="211" y="74" width="4" height="4" fill="#82729c"/>
+    <rect x="65" y="174" width="4" height="4" fill="#82729c"/>
+  </g>
+</svg>
